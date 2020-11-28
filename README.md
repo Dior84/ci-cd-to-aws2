@@ -7,4 +7,4 @@ Status of Last Deployment:<br>
 <img src="https://github.com/Dior84/ci-cd-to-aws2/workflows/CI-CD Elastic beanstalk_AWS/badge.svg?branch=master"><br>
 
 
-Copyleft by Dmitriy Oreshin 2020.
+by Dmitriy Oreshin 2020.
