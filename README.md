@@ -4,7 +4,7 @@
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/adv4000/github-actions-part-2-cicd-to-aws/workflows/CI-CD-Pipeline-to-AWS-ElasticBeastalk/badge.svg?branch=master"><br>
+<img src="https://github.com/Dior84/ci-cd-to-aws2/workflows/CI-CD Elastic beanstalk_AWS/badge.svg?branch=master"><br>
 
 
-Copyleft by Denis Astahov ADV-IT 2019.
+Copyleft by Dmitriy Oreshin 2020.
